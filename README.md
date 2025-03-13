@@ -7,7 +7,7 @@
 - [github-projects-slimmer](https://github.com/s4na/github-projects-slimmer) GitHub Projects のテーブルカラムの横幅を小さくする Chrome Extensions
 
 wip
-- [airu](https://github.com/s4na/homebrew-airu) AIルールのパッケージマネージャー
+- [homebrew-airu](https://github.com/s4na/homebrew-airu) AIルールのパッケージマネージャー
 
 archived
 - [twi-note](https://github.com/s4na/twi-note)
