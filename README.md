@@ -12,3 +12,4 @@ active
 * https://github.com/s4na/ghost-commit
 * https://github.com/s4na/action-age-check/
 * https://github.com/s4na/simple_enum2
+* https://github.com/s4na/rubocop-multiline_rhs_on_new_line
