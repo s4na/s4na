@@ -11,3 +11,4 @@ active
 * https://github.com/s4na/lazymcp
 * https://github.com/s4na/ghost-commit
 * https://github.com/s4na/action-age-check/
+* https://github.com/s4na/simple_enum2
