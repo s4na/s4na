@@ -10,6 +10,7 @@ active
 * https://github.com/s4na/gh-patch
 * https://github.com/s4na/ghost-commit
 * https://github.com/s4na/rubocop-multiline_rhs_on_new_line
+* https://github.com/s4na/chrome-tab-group-random-emoji
 
 fork
 
