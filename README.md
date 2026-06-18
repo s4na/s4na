@@ -14,7 +14,6 @@ active
 
 fork
 
-* https://github.com/s4na/vscode-git-graph
 * https://github.com/s4na/crystalball
 * https://github.com/s4na/simple_enum2
 * https://github.com/s4na/difit
