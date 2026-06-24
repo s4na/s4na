@@ -3,6 +3,7 @@
 active
 
 * https://github.com/s4na/action-age-check/
+* https://github.com/s4na/scenario-recorder
 * https://github.com/s4na/ldcron
 * https://github.com/s4na/lazymcp
 * https://github.com/s4na/shogiwoshiyou
