@@ -1,5 +1,3 @@
-🐧💨💨💨
-
 active
 
 * https://github.com/s4na/action-age-check/
