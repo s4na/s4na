@@ -11,6 +11,7 @@ active
 * https://github.com/s4na/ghost-commit
 * https://github.com/s4na/rubocop-multiline_rhs_on_new_line
 * https://github.com/s4na/chrome-tab-group-random-emoji
+* https://github.com/s4na/chatgpt-rate-limit-modal-dismiss
 
 fork
 
