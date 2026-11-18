@@ -12,6 +12,8 @@ active
 * https://github.com/s4na/gh-enhancer
 * https://github.com/s4na/ipv4-run
 * https://github.com/s4na/textdiffedit
+* https://github.com/s4na/sukashi
+* https://github.com/s4na/henni
 
 fork
 
