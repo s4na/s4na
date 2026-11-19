@@ -14,6 +14,7 @@ active
 * https://github.com/s4na/textdiffedit
 * https://github.com/s4na/sukashi
 * https://github.com/s4na/henni
+* https://github.com/s4na/zenbun
 
 fork
 
