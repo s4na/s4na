@@ -1,22 +1,30 @@
-active
+# Repositories
 
-* https://github.com/s4na/ldcron
-* https://github.com/s4na/lazymcp
-* https://github.com/s4na/shogiwoshiyou
-* https://github.com/s4na/chrome-pr-comment-jumper
-* https://github.com/s4na/gh-patch
-* https://github.com/s4na/ghost-commit
-* https://github.com/s4na/rubocop-multiline_rhs_on_new_line
-* https://github.com/s4na/chrome-tab-group-random-emoji
-* https://github.com/s4na/chatgpt-rate-limit-modal-dismiss
-* https://github.com/s4na/ipv4-run
-* https://github.com/s4na/textdiffedit
-* https://github.com/s4na/sukashi
-* https://github.com/s4na/henni
-* https://github.com/s4na/zenbun
+最終更新から **Issueは30日、PRは14日** 以上経った未クローズ項目の件数と、その中で最も長い日数です。1日1回集計します。ドラフトPRとDependabot PRは集計対象外。バッジを押すと、対象の種類の未クローズ項目を更新の古い順で開けます。
 
-fork
+## active
 
-* https://github.com/s4na/crystalball
-* https://github.com/s4na/simple_enum2
-* https://github.com/s4na/split-tests-by-timings
+| Repository | Issues | PRs |
+| --- | --- | --- |
+| [ldcron](https://github.com/s4na/ldcron) | [![Issues 30d+: 件数と最長日数](badges/ldcron-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fldcron%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/ldcron-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fldcron%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [lazymcp](https://github.com/s4na/lazymcp) | [![Issues 30d+: 件数と最長日数](badges/lazymcp-issues.svg)](https://github.com/issues?q=repo%3As4na%2Flazymcp%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/lazymcp-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Flazymcp%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [shogiwoshiyou](https://github.com/s4na/shogiwoshiyou) | [![Issues 30d+: 件数と最長日数](badges/shogiwoshiyou-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fshogiwoshiyou%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/shogiwoshiyou-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fshogiwoshiyou%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [chrome-pr-comment-jumper](https://github.com/s4na/chrome-pr-comment-jumper) | [![Issues 30d+: 件数と最長日数](badges/chrome-pr-comment-jumper-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fchrome-pr-comment-jumper%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/chrome-pr-comment-jumper-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fchrome-pr-comment-jumper%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [gh-patch](https://github.com/s4na/gh-patch) | [![Issues 30d+: 件数と最長日数](badges/gh-patch-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fgh-patch%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/gh-patch-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fgh-patch%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [ghost-commit](https://github.com/s4na/ghost-commit) | [![Issues 30d+: 件数と最長日数](badges/ghost-commit-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fghost-commit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/ghost-commit-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fghost-commit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [rubocop-multiline_rhs_on_new_line](https://github.com/s4na/rubocop-multiline_rhs_on_new_line) | [![Issues 30d+: 件数と最長日数](badges/rubocop-multiline_rhs_on_new_line-issues.svg)](https://github.com/issues?q=repo%3As4na%2Frubocop-multiline_rhs_on_new_line%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/rubocop-multiline_rhs_on_new_line-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Frubocop-multiline_rhs_on_new_line%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [chrome-tab-group-random-emoji](https://github.com/s4na/chrome-tab-group-random-emoji) | [![Issues 30d+: 件数と最長日数](badges/chrome-tab-group-random-emoji-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fchrome-tab-group-random-emoji%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/chrome-tab-group-random-emoji-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fchrome-tab-group-random-emoji%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [chatgpt-rate-limit-modal-dismiss](https://github.com/s4na/chatgpt-rate-limit-modal-dismiss) | [![Issues 30d+: 件数と最長日数](badges/chatgpt-rate-limit-modal-dismiss-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fchatgpt-rate-limit-modal-dismiss%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/chatgpt-rate-limit-modal-dismiss-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fchatgpt-rate-limit-modal-dismiss%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [ipv4-run](https://github.com/s4na/ipv4-run) | [![Issues 30d+: 件数と最長日数](badges/ipv4-run-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fipv4-run%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/ipv4-run-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fipv4-run%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [textdiffedit](https://github.com/s4na/textdiffedit) | [![Issues 30d+: 件数と最長日数](badges/textdiffedit-issues.svg)](https://github.com/issues?q=repo%3As4na%2Ftextdiffedit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/textdiffedit-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Ftextdiffedit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [sukashi](https://github.com/s4na/sukashi) | [![Issues 30d+: 件数と最長日数](badges/sukashi-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsukashi%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/sukashi-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsukashi%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [henni](https://github.com/s4na/henni) | [![Issues 30d+: 件数と最長日数](badges/henni-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fhenni%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/henni-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fhenni%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [zenbun](https://github.com/s4na/zenbun) | [![Issues 30d+: 件数と最長日数](badges/zenbun-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fzenbun%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/zenbun-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fzenbun%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+
+## fork
+
+| Repository | Issues | PRs |
+| --- | --- | --- |
+| [crystalball](https://github.com/s4na/crystalball) | [![Issues 30d+: 件数と最長日数](badges/crystalball-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fcrystalball%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/crystalball-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fcrystalball%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [simple_enum2](https://github.com/s4na/simple_enum2) | [![Issues 30d+: 件数と最長日数](badges/simple_enum2-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsimple_enum2%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/simple_enum2-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsimple_enum2%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
+| [split-tests-by-timings](https://github.com/s4na/split-tests-by-timings) | [![Issues 30d+: 件数と最長日数](badges/split-tests-by-timings-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsplit-tests-by-timings%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) | [![PRs 14d+: 件数と最長日数](badges/split-tests-by-timings-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsplit-tests-by-timings%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) |
