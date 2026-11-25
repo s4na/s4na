@@ -1,0 +1,56 @@
+name: Profile badges
+
+on:
+  pull_request:
+    paths: ['README.md', 'scripts/**', '.github/workflows/profile-badges.yml', 'badges/**']
+  push:
+    branches: [master]
+    paths: ['README.md', 'scripts/**', '.github/workflows/profile-badges.yml']
+  schedule:
+    - cron: '17 0 * * *'
+  workflow_dispatch:
+
+permissions: {}
+
+jobs:
+  test:
+    if: github.event_name == 'pull_request'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - run: python3 -m unittest discover -s scripts -p 'test_*.py'
+      - name: Verify public GitHub collection
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          python3 scripts/profile_badges.py --output "$RUNNER_TEMP/profile-badges"
+          grep -l '<title>PR 14d+: [0-9]' "$RUNNER_TEMP/profile-badges/"*-prs.svg >/dev/null
+
+  refresh:
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/master'
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    concurrency:
+      group: profile-badge-refresh
+      cancel-in-progress: false
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Refresh badges
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 scripts/profile_badges.py --write-readme
+      - name: Commit updated badges
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git add -A -- README.md badges/
+          if git diff --cached --quiet; then exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' commit -m 'chore: refresh profile badges'
+          git -c credential.helper= -c 'credential.https://github.com.helper=!gh auth git-credential' push

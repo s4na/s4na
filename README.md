@@ -1,20 +1,24 @@
-active
+最終更新から Issue は30日、PRは14日以上経った未クローズ項目の件数と最長日数です。Issue無効は `N/A`、ドラフトPRとDependabot PRは集計対象外です。
 
-* https://github.com/s4na/ldcron
-* https://github.com/s4na/shogiwoshiyou
-* https://github.com/s4na/chrome-pr-comment-jumper
-* https://github.com/s4na/gh-patch
-* https://github.com/s4na/ghost-commit
-* https://github.com/s4na/rubocop-multiline_rhs_on_new_line
-* https://github.com/s4na/chrome-tab-group-random-emoji
-* https://github.com/s4na/ipv4-run
-* https://github.com/s4na/textdiffedit
-* https://github.com/s4na/sukashi
-* https://github.com/s4na/henni
-* https://github.com/s4na/zenbun
+追加したいリポジトリは、下のどちらかの一覧に `https://github.com/s4na/リポジトリ名` を1行貼るだけです。マージ後の自動実行でバッジが付き、以降は1日1回更新されます。
 
-fork
+## active
 
-* https://github.com/s4na/crystalball
-* https://github.com/s4na/simple_enum2
-* https://github.com/s4na/split-tests-by-timings
+* [ldcron](https://github.com/s4na/ldcron) [![Issue 30d+](badges/ldcron-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fldcron%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/ldcron-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fldcron%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [shogiwoshiyou](https://github.com/s4na/shogiwoshiyou) [![Issue 30d+](badges/shogiwoshiyou-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fshogiwoshiyou%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/shogiwoshiyou-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fshogiwoshiyou%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [chrome-pr-comment-jumper](https://github.com/s4na/chrome-pr-comment-jumper) [![Issue 30d+](badges/chrome-pr-comment-jumper-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fchrome-pr-comment-jumper%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/chrome-pr-comment-jumper-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fchrome-pr-comment-jumper%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [gh-patch](https://github.com/s4na/gh-patch) [![Issue 30d+](badges/gh-patch-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fgh-patch%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/gh-patch-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fgh-patch%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [ghost-commit](https://github.com/s4na/ghost-commit) [![Issue 30d+](badges/ghost-commit-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fghost-commit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/ghost-commit-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fghost-commit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [rubocop-multiline_rhs_on_new_line](https://github.com/s4na/rubocop-multiline_rhs_on_new_line) [![Issue 30d+](badges/rubocop-multiline_rhs_on_new_line-issues.svg)](https://github.com/issues?q=repo%3As4na%2Frubocop-multiline_rhs_on_new_line%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/rubocop-multiline_rhs_on_new_line-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Frubocop-multiline_rhs_on_new_line%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [chrome-tab-group-random-emoji](https://github.com/s4na/chrome-tab-group-random-emoji) [![Issue 30d+](badges/chrome-tab-group-random-emoji-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fchrome-tab-group-random-emoji%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/chrome-tab-group-random-emoji-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fchrome-tab-group-random-emoji%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [ipv4-run](https://github.com/s4na/ipv4-run) [![Issue 30d+](badges/ipv4-run-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fipv4-run%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/ipv4-run-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fipv4-run%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [textdiffedit](https://github.com/s4na/textdiffedit) [![Issue 30d+](badges/textdiffedit-issues.svg)](https://github.com/issues?q=repo%3As4na%2Ftextdiffedit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/textdiffedit-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Ftextdiffedit%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [sukashi](https://github.com/s4na/sukashi) [![Issue 30d+](badges/sukashi-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsukashi%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/sukashi-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsukashi%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [henni](https://github.com/s4na/henni) [![Issue 30d+](badges/henni-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fhenni%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/henni-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fhenni%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [zenbun](https://github.com/s4na/zenbun) [![Issue 30d+](badges/zenbun-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fzenbun%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/zenbun-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fzenbun%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+
+## fork
+
+* [crystalball](https://github.com/s4na/crystalball) [![Issue 30d+](badges/crystalball-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fcrystalball%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/crystalball-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fcrystalball%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [simple_enum2](https://github.com/s4na/simple_enum2) [![Issue 30d+](badges/simple_enum2-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsimple_enum2%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/simple_enum2-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsimple_enum2%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
+* [split-tests-by-timings](https://github.com/s4na/split-tests-by-timings) [![Issue 30d+](badges/split-tests-by-timings-issues.svg)](https://github.com/issues?q=repo%3As4na%2Fsplit-tests-by-timings%20is%3Aopen%20sort%3Aupdated-asc%20is%3Aissue) [![PR 14d+](badges/split-tests-by-timings-prs.svg)](https://github.com/pulls?q=repo%3As4na%2Fsplit-tests-by-timings%20is%3Aopen%20sort%3Aupdated-asc%20is%3Apr%20-is%3Adraft%20-author%3Aapp%2Fdependabot) <!-- profile-badges -->
